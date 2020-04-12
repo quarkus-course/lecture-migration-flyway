@@ -1,1 +1,0 @@
-insert into user values (3, 'Another test');

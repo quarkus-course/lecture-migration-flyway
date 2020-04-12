@@ -49,8 +49,9 @@
       <artifactId>quarkus-jdbc-mysql</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-flyway</artifactId>
+      <groupId>com.konnectkode</groupId>
+      <artifactId>quarkus-liquibase</artifactId>
+      <version>1.0.0.CR2</version>
     </dependency>
   </dependencies>
   <build>
